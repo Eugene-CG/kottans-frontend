@@ -10,3 +10,6 @@ Http cheat sheet - https://codepen.io/Yevgen_Kotyk/pen/vYRZLoX?editors=1010
 
 ## Git Collaboration
 https://github.com/Eugene-CG/kottans-frontend/blob/master/img/task_git_collaboration
+
+## Intro to HTML and CSS
+https://github.com/Eugene-CG/kottans-frontend/blob/master/img/task_html_css_intro
