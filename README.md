@@ -1,9 +1,10 @@
 # kottans-frontend
 
-<p align="center">
-    **_I like cookies and milk_**
-    <img width="200" src="https://github.com/Eugene-CG/kottans-frontend/blob/master/img/cheshire.jpg" alt="Material Bread logo">
-</p>
+:crying_cat_face: :crying_cat_face: :crying_cat_face: :crying_cat_face: :crying_cat_face: :crying_cat_face: :crying_cat_face:
+
+**_I like cookies and milk_**
+![Cheshire Cat](https://github.com/Eugene-CG/kottans-frontend/blob/master/img/cheshire.jpg)
+
 1. **Git Basics**
 2. **Linux CLI and Networking**
 3. **VCS (hello gitty), GitHub and Collaboration**
